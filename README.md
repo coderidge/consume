@@ -16,7 +16,11 @@ Installation
 
 Unit tests 
 ================ 
-1/ The useful test to check the url return 200 success code and also takes returned data and runs a json decode function to check that correctly formatted json has been 
-created.  
+
+Run unit test in command line with 'phpunit' 
+
+The useful test to check the url return 200 success code and also takes returned data and runs a json decode function to check that correctly formatted json has been 
+created.
+  
  
 TODO - With more, other tests for correct data and fields returned to be completed. 
